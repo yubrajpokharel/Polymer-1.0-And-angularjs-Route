@@ -1,0 +1,10 @@
+{"items":
+	[	
+		{"id":"7","name":"item 1", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"3","name":"item 2","desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"4","name":"item 3", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"6","name":"item 4", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"1","name":"item 5", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"2","name":"item 6", "desc":"this is a sample data for angular js route and polymer project"}
+	]
+}

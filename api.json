@@ -1,0 +1,10 @@
+{"items":
+	[	
+		{"id":"7","name":"Yubraj Pokharel", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"3","name":"Chitru Shrestha","desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"4","name":"Rosan Prajapati", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"6","name":"Pramod Chaulagain", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"1","name":"Steve Jobs", "desc":"this is a sample data for angular js route and polymer project"},
+		{"id":"2","name":"Albert Einstein", "desc":"this is a sample data for angular js route and polymer project"}
+	]
+}
